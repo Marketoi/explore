@@ -18,7 +18,7 @@ Either some small HDMI screen plugged to a raspberry-ish
 
 
 Screen goes there (version : vintage radio)
-![[79efa93604f0270f8ee0e0de9fca2afe506fe2cd.jpg]]
+![Radio](../Medias/79efa93604f0270f8ee0e0de9fca2afe506fe2cd.jpg)
 
 
 Screen goes here (version : painting)
