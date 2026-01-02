@@ -9,7 +9,7 @@ user can tap?
 - photo-frame
 - news
 - weather
-- [[00003 - web-AI Avatar]]
+- [00003 - web-AI Avatar](00003%20-%20web-AI%20Avatar.md)
 - ...
 # explore
 Screen options :
@@ -22,4 +22,4 @@ Screen goes there (version : vintage radio)
 
 
 Screen goes here (version : painting)
-![[4e2e2ffe-e729-46c2-82b7-8a24235c1495.png]]
+![Radio](../Medias/4e2e2ffe-e729-46c2-82b7-8a24235c1495.png)
