@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "aad1018c6cb5593d",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a6bfd6a0730d34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91a73d15a67b07e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00002 - Smart Radio - Smart Painting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f99f8bd7b12aebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f4db3a84ff519a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5a703f00563d3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6384923556d8ae39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37aa44104b9081d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3366568862c45e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d13fce814be6bdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af0272e61be5e64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00002 - Smart Radio - Smart Painting"
+            }
+          },
+          {
+            "id": "02ac6903312f5875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00002 - Smart Radio - Smart Painting"
+            }
+          },
+          {
+            "id": "92d0d87168d0f1f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0630d188f7d052c6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "be9179f4982a97f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00002 - Smart Radio - Smart Painting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "91a73d15a67b07e3",
+  "lastOpenFiles": [
+    "Topics/00003 - web-AI Avatar.md",
+    "Topics/00004 - Journal Officiel watch.md",
+    "Topics/00002 - Smart Radio - Smart Painting.md",
+    "Topics/00001 - Lora Raspberry for Meshtastic.md",
+    "Medias/4e2e2ffe-e729-46c2-82b7-8a24235c1495.png",
+    "Medias",
+    "Medias/79efa93604f0270f8ee0e0de9fca2afe506fe2cd.jpg",
+    "Intro.md",
+    "Medias/Screenshot 2026-01-02 at 10.57.10.png",
+    "Topics/00006 - App starter.md",
+    "Topics/00005 - News vector-distance.md",
+    "Welcome.md",
+    "Topics"
+  ]
+}
