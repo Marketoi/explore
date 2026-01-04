@@ -2,7 +2,7 @@
 Embed a screen and system into a decorative object ;
 - Internet connection and dynamic display
 - user can talk?
-- user can tap?
+- user can tap on the screen?
 
 **features :** 
 - clock
