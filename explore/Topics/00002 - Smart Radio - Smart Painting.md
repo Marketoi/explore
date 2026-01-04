@@ -31,3 +31,4 @@ Screen to be : (or an old smartphone, jailbreak*)
 
 # notes
 smartphone jailbreak. -> issue is : start on/off, should auto-start when battery charged enough...
+for waking-it-up à-la Siri : https://rhasspy.readthedocs.io/en/latest
