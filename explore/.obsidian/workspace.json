@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "00002 - Smart Radio - Smart Painting"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro.md",
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for 00002 - Smart Radio - Smart Painting"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro.md",
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro"
+              "title": "Outgoing links from 00002 - Smart Radio - Smart Painting"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro.md",
+                "file": "Topics/00002 - Smart Radio - Smart Painting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
+              "title": "Outline of 00002 - Smart Radio - Smart Painting"
             }
           }
         ]
@@ -183,16 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "91a73d15a67b07e3",
+  "active": "df5a703f00563d3e",
   "lastOpenFiles": [
-    "00003.md",
-    "Intro.md",
-    "My Note.md",
+    "Medias/Screenshot 2026-01-04 at 10.36.35.png",
     "Topics/00002 - Smart Radio - Smart Painting.md",
+    "Topics/00001 - Lora Raspberry for Meshtastic.md",
+    "Intro.md",
+    "Topics/00007 - online shared collaborative Bookmarks.md",
+    "00003.md",
+    "My Note.md",
     "Topics/00003 - web-AI Avatar.md",
     "Topics/00006 - App starter.md",
-    "Topics/00001 - Lora Raspberry for Meshtastic.md",
-    "Topics/00007 - online shared collaborative Bookmarks.md",
     "Topics/00004 - Journal Officiel watch.md",
     "Medias/4e2e2ffe-e729-46c2-82b7-8a24235c1495.png",
     "Medias",
